@@ -5,5 +5,3 @@
 ###### 
 
 
-
-![alt text](https://img.shields.io/badge/Igor-like-linux-red)
