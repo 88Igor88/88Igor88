@@ -6,4 +6,4 @@
 
 
 
-![alt text](https://img.shields.io/badge/like_code-in_rust-red)
+![alt text](https://img.shields.io/badge/Igor-like linux-red)
