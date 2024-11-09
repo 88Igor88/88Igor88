@@ -1,6 +1,7 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2036BCF7&lines=Привет!)](https://git.io/typing-svg)
-###### я программист на обучении
-###### и я пишу на языке python(и не много на rust).
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%0036BCF7&lines=Hello!)](https://git.io/typing-svg)
+###### I am a programmer writing in python, shell (by the way, cool stuff!)
+###### And I also write some simple applications that make life easier for Linux users!
+###### 
 ###### 
 
 
